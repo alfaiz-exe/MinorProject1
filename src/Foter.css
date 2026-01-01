@@ -1,0 +1,13 @@
+.footer {
+    text-align: center;
+    font-size: 0.875rem;
+    color: white;
+    background-color: #121212;;
+    height : 10vh; 
+    margin: 0;
+  }
+  
+  .footer a {
+    color: #ccc;
+    text-decoration: underline;
+  }
